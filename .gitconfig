@@ -23,10 +23,6 @@
 	cbm = "! git fop && git co master && git pull && git co -b"
 	# cbd = "! git fop && git co -b $1 origin/develop"
 	# cbm = "! git fop && git co -b $1 origin/master"
-[pager]
-	log = /usr/share/doc/git/contrib/diff-highlight/diff-highlight | less
-	# diff = /usr/share/doc/git/contrib/diff-highlight/diff-highlight | less
-	show = /usr/share/doc/git/contrib/diff-highlight/diff-highlight | less
 [user]
 	name = Couss
 	email = couscouss@gmail.com
